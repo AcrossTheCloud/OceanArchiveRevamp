@@ -163,7 +163,7 @@ export default class Map extends React.Component {
                             <GoogleMapReact ref='mapRef'
                                 onGoogleApiLoaded={({ map, maps }) => { this.map = map }}
                                 yesIWantToUseGoogleMapApiInternals
-                                bootstrapURLKeys={{ key: 'AIzaSyDqIVtQawOQ0DqWTSP3LG60nVhGJvsdSHk' }}
+                                bootstrapURLKeys={{ key: 'AIzaSyBB19hnVYvdWOemDURUEXthK-TqL_TVeFM' }}
                                 defaultZoom={8}
                                 defaultCenter={{ lat: -32.578535, lng: 154.128928 }}
                                 options={{ fullscreenControl: false }} >
@@ -195,7 +195,7 @@ export default class Map extends React.Component {
                             <GoogleMapReact ref='mapRef'
                                 onGoogleApiLoaded={({ map, maps }) => { this.map = map }}
                                 yesIWantToUseGoogleMapApiInternals
-                                bootstrapURLKeys={{ key: 'AIzaSyDqIVtQawOQ0DqWTSP3LG60nVhGJvsdSHk' }}
+                                bootstrapURLKeys={{ key: 'AIzaSyBB19hnVYvdWOemDURUEXthK-TqL_TVeFM' }}
                                 defaultZoom={8}
                                 defaultCenter={{ lat: -32.578535, lng: 154.128928 }}
                                 options={{ fullscreenControl: false }}>

@@ -25,7 +25,7 @@ var Map = /** @class */ (function (_super) {
         return (React.createElement("div", { style: { flex: '1' } },
             React.createElement("div", { className: "mapSection" },
                 React.createElement("div", { className: 'mapContainer' },
-                    React.createElement(google_map_react_1.default, { bootstrapURLKeys: { key: 'AIzaSyDqIVtQawOQ0DqWTSP3LG60nVhGJvsdSHk' }, defaultZoom: 10, defaultCenter: { lat: 33.8688, lng: 151.2093 } })))));
+                    React.createElement(google_map_react_1.default, { bootstrapURLKeys: { key: 'AIzaSyBB19hnVYvdWOemDURUEXthK-TqL_TVeFM' }, defaultZoom: 10, defaultCenter: { lat: 33.8688, lng: 151.2093 } })))));
     };
     return Map;
 }(React.Component));

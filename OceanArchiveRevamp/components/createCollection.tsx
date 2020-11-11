@@ -1013,7 +1013,7 @@ class LocationPage extends React.Component {
                             ref='mapRef'
                             onGoogleApiLoaded={({ map, maps }) => { this.map = map }}
                             yesIWantToUseGoogleMapApiInternals
-                            bootstrapURLKeys={{ key: 'AIzaSyDqIVtQawOQ0DqWTSP3LG60nVhGJvsdSHk' }}
+                            bootstrapURLKeys={{ key: 'AIzaSyBB19hnVYvdWOemDURUEXthK-TqL_TVeFM' }}
                             defaultZoom={5}
                             defaultCenter={{ lat: 0, lng: 0 }}
                             options={{ fullscreenControl: false }}>
