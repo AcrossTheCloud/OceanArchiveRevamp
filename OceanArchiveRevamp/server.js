@@ -12,7 +12,7 @@ app.set('view engine', 'html');
 
 //Handle requests to server
 app.get('/*', function (req, res) {
-    console.log('Things happened');
+    //console.log('Things happened');
     res.render(__dirname + '/');
 });
 
